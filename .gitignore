@@ -26,7 +26,7 @@ pip-delete-this-directory.txt
 venv/
 ENV/
 env/
-.env
+**/.env
 .env.local
 .env.*.local
 
@@ -99,11 +99,6 @@ Thumbs.db
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Environment
-.env
-.env.local
-.env.*.local
 
 # Database
 *.db
